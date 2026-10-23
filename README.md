@@ -2,7 +2,8 @@
 
 An interactive retail order dashboard built by connecting an Excel dataset to Google Data Studio (the product was previously called Looker Studio). The project turns thousands of order-line records into an easier way to explore regional demand, product categories, customer segments, cities, and changes over time.
 
-![Order Report Dashboard](orders-report-dashboard.png)
+<img width="1282" height="695" alt="image" src="https://github.com/user-attachments/assets/9a265f63-1162-4a67-b0f0-09e65e983166" />
+
 
 ## 1. The story behind the project
 
@@ -35,7 +36,7 @@ The current dashboard helps answer the first five questions. The last question r
 | Order date range | January 3, 2014 – December 30, 2017 |
 | Distinct orders | 5,009 unique Order IDs |
 | Customers | 793 unique Customer IDs |
-| Geography | 49 states and 4 regions |
+| Geography | 49 states and 3 regions |
 | Customer segments | Consumer, Corporate, Home Office |
 | Product categories | Office Supplies, Furniture, Technology |
 | Total quantity | 37,873 units |
